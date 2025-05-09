@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gorakhpur_Junction_railway_station.jpg/1280px-Gorakhpur_Junction_railway_station.jpg");
+    background-size: cover;
+    font-family: -Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+
+.container{
+    background-color: rgb(232, 231, 255);
+    max-width: 80%;
+    margin: auto;
+    border: 2px solid rgb(165, 164, 164);
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
