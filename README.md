@@ -13,7 +13,7 @@ The app helps track how many people enter a place and allows the user to save th
 
 ## 📸 Preview
 
-![App Screenshot](./screenshot.png)
+![image](https://github.com/user-attachments/assets/f43146bf-eebe-4173-b7e2-da3cfe023044)
 
 
 ## 🚀 Technologies Used
